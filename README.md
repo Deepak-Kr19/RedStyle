@@ -42,6 +42,6 @@ RedStyle is a fully functional full-stack eCommerce web application built with t
 
 ---
 
-##🤝 Contributions
+## 🤝 Contributions
 Contributions are welcome! If you'd like to improve or add new features, feel free to open an issue or submit a PR.
 
