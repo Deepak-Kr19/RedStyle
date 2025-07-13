@@ -1,13 +1,11 @@
 # 🛍️ RedStyle – Full Stack E-Commerce Web Application
 
 RedStyle is a fully functional full-stack eCommerce web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It features dynamic product listings, real-time cart updates, user authentication, and responsive design — designed to provide a seamless and modern online shopping experience.
-/*
-## 🚀 Live Demo
 
-> *(Add your deployed URL here, e.g., Vercel / Render / Netlify / Railway)*
+
 
 ---
-*/
+
 
 ## 📌 Features
 
@@ -44,5 +42,6 @@ RedStyle is a fully functional full-stack eCommerce web application built with t
 
 ---
 
-## 📁 Folder Structure
+##🤝 Contributions
+Contributions are welcome! If you'd like to improve or add new features, feel free to open an issue or submit a PR.
 
